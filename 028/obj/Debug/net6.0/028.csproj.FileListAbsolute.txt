@@ -1,0 +1,15 @@
+D:\Probyems\C#09.07.2022_DIN\028\bin\Debug\net6.0\028.exe
+D:\Probyems\C#09.07.2022_DIN\028\bin\Debug\net6.0\028.deps.json
+D:\Probyems\C#09.07.2022_DIN\028\bin\Debug\net6.0\028.runtimeconfig.json
+D:\Probyems\C#09.07.2022_DIN\028\bin\Debug\net6.0\028.dll
+D:\Probyems\C#09.07.2022_DIN\028\bin\Debug\net6.0\028.pdb
+D:\Probyems\C#09.07.2022_DIN\028\obj\Debug\net6.0\028.csproj.AssemblyReference.cache
+D:\Probyems\C#09.07.2022_DIN\028\obj\Debug\net6.0\028.GeneratedMSBuildEditorConfig.editorconfig
+D:\Probyems\C#09.07.2022_DIN\028\obj\Debug\net6.0\028.AssemblyInfoInputs.cache
+D:\Probyems\C#09.07.2022_DIN\028\obj\Debug\net6.0\028.AssemblyInfo.cs
+D:\Probyems\C#09.07.2022_DIN\028\obj\Debug\net6.0\028.csproj.CoreCompileInputs.cache
+D:\Probyems\C#09.07.2022_DIN\028\obj\Debug\net6.0\028.dll
+D:\Probyems\C#09.07.2022_DIN\028\obj\Debug\net6.0\refint\028.dll
+D:\Probyems\C#09.07.2022_DIN\028\obj\Debug\net6.0\028.pdb
+D:\Probyems\C#09.07.2022_DIN\028\obj\Debug\net6.0\028.genruntimeconfig.cache
+D:\Probyems\C#09.07.2022_DIN\028\obj\Debug\net6.0\ref\028.dll
