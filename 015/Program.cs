@@ -8,5 +8,5 @@ if (str>99)
 }
 else
 {
-    Console.WriteLine("Второго числа нету");
+    Console.WriteLine("Третьего числа нету");
 }
